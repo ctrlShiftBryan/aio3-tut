@@ -3,4 +3,5 @@
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri C:/Users/bryan/code/aio3-tut/MX_Alps_Hybrid.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/bryan/code/aio3-tut/random-keyboard-parts.pretty)(options "")(descr ""))
   (lib (name Fuse_Holders_and_Fuses)(type KiCad)(uri C:/Users/bryan/code/aio3-tut/Fuse_Holders_and_Fuses.pretty)(options "")(descr ""))
+  (lib (name Housings_QFP)(type KiCad)(uri C:/Users/bryan/code/aio3-tut/Housings_QFP.pretty)(options "")(descr ""))
 )

@@ -10,3 +10,6 @@
 [submodule "Fuse_Holders_and_Fuses.pretty"]
 	path = Fuse_Holders_and_Fuses.pretty
 	url = git@github.com:KiCad/Fuse_Holders_and_Fuses.pretty.git
+[submodule "Housings_QFP.pretty"]
+	path = Housings_QFP.pretty
+	url = git@github.com:KiCad/Housings_QFP.pretty.git
